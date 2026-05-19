@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there 👋 I'm [Gourab]
 
-<!--
-**att-paul-hub/att-paul-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Passionate about networking, cloud computing, Linux, and cybersecurity. I enjoy building scalable systems, automating infrastructure, and exploring modern DevOps technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Networking & Security
+  - CCNA
+  - Network Security
+  - RHCSA / RHCE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud & DevOps
+  - AWS
+  - Microsoft Azure (AZ-104 Certified)
+  - Ansible Automation Platform
+  - Git & GitHub
+
+- Programming
+  - Python
+  - Go
+  - Java
+  - C++
+
+- Web & Servers
+  - Nginx
+  - Apache2
+  - Flask
+  - Website Hosting
+
+- OS & Platforms
+  - Linux
+  - Red Hat Enterprise Linux
+  - Android Development
+  - Android Studio
+  - Kotlin
+
+## 🔥 Interests
+- Cloud Infrastructure
+- Automation & DevOps
+- Web Development
+- Cybersecurity & Bug Bounty
+- Open Source
+- System Administration
+
+## 📈 Currently Learning
+- Advanced Cloud Architecture
+- Infrastructure Automation
+- Kubernetes & Containerization
+- Security Hardening
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/att-paul-hub
+- LinkedIn: www.linkedin.com/in/gourab-kanti-paul-901498210
+
+---
+⭐ Always learning, building, and improving.
